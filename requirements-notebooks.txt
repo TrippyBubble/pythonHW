@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas==2.2.3
+PubChemPy==1.0.4
+rdkit==2024.3.5
+prefect==3.1.12
+matplotlib==3.9.2
+seaborn==0.13.2
+scipy==1.14.1
+nbformat==5.10.4
+nbclient==0.10.0
+nbconvert==7.16.4
+ipykernel==6.29.5
